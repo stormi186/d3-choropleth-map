@@ -1,0 +1,26 @@
+body {
+  font-family: 'Arial';
+}
+
+.graph-svg-component {
+  background-color: white;
+  display: block;
+  margin: auto;
+}
+
+.axis path, 
+.axis line {
+  fill: none;
+  stroke: #000;   
+}
+
+#tooltip {
+  position: absolute;			
+  padding: 10px;				
+  font: 12px sans-serif;		
+  background: white;	
+  border: 0px;		
+  border-radius: 8px;			
+  pointer-events: none;	
+}
+
