@@ -15,7 +15,7 @@
 
 ## Project preview
 
-- [D3 Heat Map- Codepen](https://codepen.io/stormi186/full/aeRedo)
+- [D3 Choropleth Map- Codepen](https://codepen.io/stormi186/full/aeRedo)
 
 ## Technologies
 
