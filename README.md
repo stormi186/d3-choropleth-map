@@ -8,7 +8,7 @@
 
 ## User Stories
 
-- User can see a choropleth map the percentage of adults age 25 and older with a bachelor's degree or higher (2010-2014)
+- User can see a choropleth map of the percentage of adults age 25 and older with a bachelor's degree or higher (2010-2014)
 - User can see title and description
 - User can mouse over an area and see a tooltip with more info
 - User can see a legend with description
